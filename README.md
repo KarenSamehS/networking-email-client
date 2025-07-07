@@ -30,7 +30,7 @@ This repository contains a Python-based **Email Client Application** developed f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/email-client-application.git
+   git clone https://github.com/KarenSamehS/email-client-application.git
    cd email-client-application
    ```
 2. Install the required library:
