@@ -73,10 +73,12 @@ This repository contains a Python-based **Email Client Application** developed f
 
 - **Send Email Interface**:
   ![Send Email GUI](screenshots/send_email_gui.png)
+  
   *GUI for sending emails with input fields and send button.*
 
 - **Receive Email Interface**:
   ![Receive Email GUI](screenshots/receive_email_gui.png)
+  
   *GUI for receiving emails with input fields and check button.*
   
 ## Code Overview
